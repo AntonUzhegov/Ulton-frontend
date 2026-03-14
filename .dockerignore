@@ -1,0 +1,11 @@
+node_modules/
+build/
+.DS_Store
+.git/
+.gitignore
+README.md
+.env
+.env.local
+.env.*.local
+src/**/*.test.ts
+src/**/*.test.tsx
